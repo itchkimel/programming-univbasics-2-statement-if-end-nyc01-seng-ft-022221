@@ -2,4 +2,5 @@
 
 current_second = Time
 
-if current_second.to_i %
+if current_second.to_i even ?
+  puts 
