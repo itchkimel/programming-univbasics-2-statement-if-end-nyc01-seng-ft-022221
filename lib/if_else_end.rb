@@ -1,8 +1,8 @@
 # Write your solution here
 
-current_time = 
+current_time = Time.at()
 
-if current_time.even?
+if current_time.to_i.even?
   puts "Even!"
 else
   puts "Odd!"
