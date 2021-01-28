@@ -1,8 +1,8 @@
 # Write your solution here
 
-current_second = Time.local
+current_time = Time.local
 
-if current_second.to_i even ?
+if current_time.to_i even?
   puts "Even!"
 else
   puts "Odd!"
