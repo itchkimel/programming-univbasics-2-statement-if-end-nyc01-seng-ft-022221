@@ -1,6 +1,6 @@
 # Write your solution here
 
-current_time = 2
+current_time = 
 
 if current_time.even?
   puts "Even!"
