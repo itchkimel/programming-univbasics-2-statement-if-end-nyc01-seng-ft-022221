@@ -1,8 +1,8 @@
 # Write your solution here
 
-current_time = Time
+current_time = 2
 
-if current_time.to_i.even?
+if current_time.even?
   puts "Even!"
 else
   puts "Odd!"
